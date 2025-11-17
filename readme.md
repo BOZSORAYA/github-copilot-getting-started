@@ -1,4 +1,6 @@
-# Repositório de Links Úteis sobre GitHub Copilot
+# Links Úteis sobre GitHub Copilot
+
+![Descrição da imagem](./assets/header.png)
 
 Este repositório contém uma lista de links úteis relacionados ao GitHub Copilot, divididos por sessões para facilitar o acesso a informações e recursos.
 
@@ -6,13 +8,13 @@ Este repositório contém uma lista de links úteis relacionados ao GitHub Copil
 
 ## Objetivos de Aprendizado
 
-- **Sessão 1**: Familiarizar-se com os conceitos básicos do GitHub Copilot e como começar a utilizá-lo.
-- **Sessão 2**: Aprender boas práticas de *prompt engineering* para tirar o máximo proveito do GitHub Copilot.
-- **Sessão 3**: Explorar projetos práticos que demonstram como criar aplicações usando o GitHub Copilot.
+- **🧭 Sessão 1**: Familiarizar-se com os conceitos básicos do GitHub Copilot e como começar a utilizá-lo.
+- **🎯 Sessão 2**: Aprender boas práticas de *prompt engineering* para tirar o máximo proveito do GitHub Copilot.
+- **🛠️ Sessão 3**: Explorar projetos práticos que demonstram como criar aplicações usando o GitHub Copilot.
 
 ---
 
-## Sessão 1 - Getting Started - Começando com GitHub Copilot
+## 🧭 Sessão 1 - Getting Started - Começando com GitHub Copilot
 
 ### Objetivos de Aprendizado
 - Compreender o básico sobre o GitHub Copilot.
@@ -32,7 +34,7 @@ Este repositório contém uma lista de links úteis relacionados ao GitHub Copil
 
 ---
 
-## Sessão 2 - Boas Práticas de Prompt Engineering
+## 🎯 Sessão 2 - Boas Práticas de Prompt Engineering
 
 ### Objetivos de Aprendizado
 - Aprender técnicas de *prompt engineering* para escrever melhores prompts e melhorar a interação com o GitHub Copilot.
@@ -43,7 +45,7 @@ Este repositório contém uma lista de links úteis relacionados ao GitHub Copil
 
 ---
 
-## Sessão 3 - Projetos Práticos - Criando Aplicações com GitHub Copilot
+## 🛠️ Sessão 3 - Projetos Práticos - Criando Aplicações com GitHub Copilot
 
 ### Objetivos de Aprendizado
 - Aplicar o conhecimento adquirido nas sessões anteriores para criar aplicativos reais com o auxílio do GitHub Copilot.
@@ -62,4 +64,3 @@ Este repositório contém uma lista de links úteis relacionados ao GitHub Copil
 ### Contribuições
 
 Se você tem links úteis ou recursos relacionados ao GitHub Copilot, sinta-se à vontade para contribuir com este repositório!
-S
